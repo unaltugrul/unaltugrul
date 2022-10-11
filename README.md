@@ -1,13 +1,14 @@
 
+# 
 <h1 align="center">Hi 👋, I'm Unal</h1>
 <h3 align="center">A Software Automation Test Engineer from Turkey</h3>
 <h3 align="center">💬 Ask me about Web based and Mobile App. Testing **Java, Selenium, Appium**</h3>
 <h3 align="center">📫 How to reach me **unaltugrulbulut@gmail.com**</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/unaltugrulbulut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/unaltugrulbulut/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17923186/%c3%9cnal-tu%c4%9frul-bulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17923186/%c3%9cnal-tu%c4%9frul-bulut" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@unaltugrul#7706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="unaltugrul#7706" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/unaltugrulbulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/unaltugrulbulut/" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/https://stackoverflow.com/users/17923186/%c3%9cnal-tu%c4%9frul-bulut](https://stackoverflow.com/users/17923186/%c3%9cnal-tu%c4%9frul-bulut)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17923186/%c3%9cnal-tu%c4%9frul-bulut" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@unaltugrul#7706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="unaltugrul#7706" height="30" width="40" /></a> 
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unaltugrul&label=Profile%20views&color=0e75b6&style=flat" alt="unaltugrul" /> </p>
