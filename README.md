@@ -2,7 +2,7 @@
 # 
 <h1 align="center">Hi 👋, I'm Unal</h1>
 <h3 align="center">A Software Automation Test Engineer from Turkey</h3>
-<h3 align="center">💬 Ask me about Web based and Mobile App. Testing **Java, TypeScript, Playwright Selenium, Appium**</h3>
+<h3 align="center">💬 Ask me about Web based and Mobile App. Testing **Java, TypeScript, Playwright, Selenium, Appium**</h3>
 <h3 align="center">📫 How to reach me **unaltugrulbulut@gmail.com**</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
