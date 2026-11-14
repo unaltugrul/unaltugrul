@@ -26,7 +26,6 @@
 
 ---
 
-## `> open.channel`
 
 Building something that has to work the first time, every time? Let's talk.
 
