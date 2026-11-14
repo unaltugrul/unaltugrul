@@ -33,12 +33,4 @@ Building something that has to work the first time, every time? Let's talk.
 - 💼 **LinkedIn:** [linkedin.com/in/unaltugrulbulut](https://www.linkedin.com/in/unaltugrulbulut)
 - 💬 **Stack Overflow:** [stackoverflow.com/users/17923186](https://stackoverflow.com/users/17923186/ünaltuğrul-bulut)
 
-<div align="center">
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=unaltugrul&label=Visitors%20Detected&color=24c6dc&style=flat-square" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="" />
-
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=unaltugrul&label=Visitors%20Detected&color=24c6dc&style=flat-square" alt="Profile Views" /> </p> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="" /> </p>
