@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=unaltugrul&background=90,0f0c29,302b63&ring=24c6dc&fire=24c6dc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=24c6dc&sideLabels=24c6dc&dates=a9a6d6&stroke=302b63&border_radius=12&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=unaltugrul&background=90,0f0c29,302b63,24c6dc&ring=24c6dc&fire=24c6dc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=24c6dc&sideLabels=24c6dc&dates=a9a6d6&stroke=302b63&border_radius=12&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
