@@ -18,8 +18,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unaltugrul&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-
 <img src="https://streak-stats.demolab.com/?user=unaltugrul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -27,11 +25,8 @@
 ---
 
 
-Building something that has to work the first time, every time? Let's talk.
-
 - 📧 **Email:** [unaltugrulbulut@gmail.com](mailto:unaltugrulbulut@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/unaltugrulbulut](https://www.linkedin.com/in/unaltugrulbulut)
-- 💬 **Stack Overflow:** [stackoverflow.com/users/17923186](https://stackoverflow.com/users/17923186/ünaltuğrul-bulut)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unaltugrul&label=Visitors%20Detected&color=24c6dc&style=flat-square" alt="Profile Views" />
